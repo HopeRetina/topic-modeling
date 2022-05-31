@@ -1,2 +1,2 @@
 # topic-modeling
-topic modeling using LDA
+Here I used unsupervised learning to model watch reviews on Amazon.
